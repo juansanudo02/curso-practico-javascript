@@ -1,0 +1,54 @@
+const colombia = [];
+
+colombia.push({
+    name:"Diana",
+    salary:1000,
+})
+colombia.push({
+    name:"Alfonso",
+    salary:1500,
+})
+colombia.push({
+    name:"Carla",
+    salary:500,
+})
+colombia.push({
+    name:"Cristina",
+    salary:3000,
+})
+colombia.push({
+    name:"Raul",
+    salary:400,
+})
+colombia.push({
+    name:"Diana",
+    salary:1000,
+})
+colombia.push({
+    name:"Paco",
+    salary:5000,
+})
+colombia.push({
+    name:"Vergudo",
+    salary:10000,
+})
+colombia.push({
+    name:"Donatela",
+    salary:2000,
+})
+colombia.push({
+    name:"Romina",
+    salary:800,
+})
+colombia.push({
+    name:"Diana",
+    salary:1000,
+})
+colombia.push({
+    name:"Ruperto",
+    salary:300,
+})
+colombia.push({
+    name:"John",
+    salary:50,
+})
